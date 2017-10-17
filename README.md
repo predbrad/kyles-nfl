@@ -1,2 +1,4 @@
 # kyles-nfl
-NFL stuff for Kyle
+
+`pip install -r requirements.txt`
+`python analyze_team.py`
